@@ -1,4 +1,4 @@
-# AI-ML-Jupter-Notes
+# AI-ML-Jupter-Notes ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 The jupyter notebook files for learning modules in python used for AI and ML 
 
 ## Requirements
