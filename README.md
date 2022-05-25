@@ -5,7 +5,8 @@ The jupyter notebook files for learning modules in python used for AI and ML
 
 - Install Python(3.9 or above)
     - Install it from [here](https://www.python.org/downloads/)
-    - Mac users ``` brew install python```
+    - Mac users 
+        ``` brew install python```
     
 - Install Pipenv
     - Dependency and env manager for python
@@ -26,5 +27,6 @@ The jupyter notebook files for learning modules in python used for AI and ML
 
 ## Run
 - Run the project
+
     ``` jupyter notebook ```
 - It will open a local web where you can navigate and open different notebook files.
